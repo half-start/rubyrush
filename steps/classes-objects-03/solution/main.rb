@@ -3,7 +3,7 @@
 # Подключим класс Person из файла person.rb
 require_relative 'person'
 
-# Создадим трех людей
+# Создадим двух людей
 young_person = Person.new('Сергей', 'Михайлович', 41)
 old_person = Person.new('Константин', 'Львович', 61)
 
